@@ -1,4 +1,4 @@
-import { Data } from './EmpoyeData';  
+import { Data } from './EmployeeData';  
 import { useState, useEffect } from 'react';
 import "bootstrap/dist/css/bootstrap.min.css";
 
